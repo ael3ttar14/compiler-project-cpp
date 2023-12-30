@@ -1,0 +1,8 @@
+int x = 4 ;
+int c = 5 ;
+if (x){
+ cout << x;
+ }
+else{ 
+ cout << c ;
+ }

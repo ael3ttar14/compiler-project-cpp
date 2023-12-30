@@ -1,0 +1,7 @@
+cin >> x;
+cout << x << endl;
+if (x < 3) {
+    cout << "x is less than 3" << endl;
+} else {
+    cout << "x is greater or equal to 3" << endl;
+}
